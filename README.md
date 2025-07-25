@@ -1,3 +1,5 @@
+![Banner](./assets/udp-juego-ahoracado-banner.png)
+
 # 🕹️ UDP - Juego del Ahorcado
 
 Este proyecto es una implementación del clásico **juego del ahorcado**, donde el cliente y el servidor se comunican mediante el **protocolo UDP (User Datagram Protocol)**. Está desarrollado como práctica de programación en red.
